@@ -1,7 +1,7 @@
 
 site_name: SparkFun Qwiic OLED Arduino Library - Hookup Guide
 site_description: SparkFun Arduino Library for Qwiic OLED Boards
-site_url: https://sparkfun.github.io/SparkFun_Qwiic_OLED_Arduino_Library
+site_url: https://sparkfun.github.io/DocsTesting
 
 
 theme:
@@ -39,7 +39,7 @@ plugins:
   - search
   - monorepo
 
-repo_url: https://github.com/sparkfun/SparkFun_Qwiic_OLED_Arduino_Library
+repo_url: https://github.com/sparkfun/DocsTesting
 repo_name: sparkfun/SparkFun_Qwiic_OLED_Arduino_Library
 
 copyright: Copyright 2022 SparkFun Electronics (6333 Dry Creek Parkway, Niwot, Colorado 80503)
